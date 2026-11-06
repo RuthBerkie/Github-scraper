@@ -1,3 +1,5 @@
+# Git Scraper
+
 This script is an automated security tool that scans a user's public GitHub profile to find exposed passwords.
 
      * It launches a controlled Google Chrome browser via Selenium, 
